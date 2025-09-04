@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alidayan
 - 👀 I’m interested in travelling and coding
-- 📫 How to reach me alidayan93@gmail.com
+- 📫 How to reach me alidayan_@hotmail.com
 
 <!---
 alidayan/alidayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
